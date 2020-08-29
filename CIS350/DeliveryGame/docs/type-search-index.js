@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"helper","l":"Artist"},{"p":"main","l":"Delivery"},{"p":"main","l":"Driver"},{"p":"main","l":"Game"},{"p":"main","l":"House"},{"p":"main","l":"Launcher"},{"p":"gui","l":"LevelSelection"},{"p":"gui","l":"MainMenu"},{"p":"gui","l":"Statistics"},{"p":"gui","l":"Tile"},{"p":"gui","l":"TileGrid"},{"p":"gui","l":"TileType"}]
