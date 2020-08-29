@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"gui"},{"l":"helper"},{"l":"main"}]
